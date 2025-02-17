@@ -1,3 +1,9 @@
+"""
+This program was written by Gavin Sloan
+February 25th, 2022
+This program demonstrates a very simple dice game with computer and user mechanics
+"""
+
 import random
 
 print("Welcome to the dice game!")
